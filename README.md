@@ -4,7 +4,6 @@
 - 🤝 I’m looking for help with data science models <br>
 - 🌱 I’m currently learning pandas<br>
 - 💬 Ask me about finance/risk<br>
-- ⚡ Fun fact i lied 
 
 
 ## 🌐 Socials:
